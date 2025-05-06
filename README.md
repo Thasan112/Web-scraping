@@ -57,7 +57,3 @@ Notes
 
 📊 Project Outcomes
 Successfully created a structured dataset of New Zealand companies.
-Provided insights into the distribution of companies across different industries and sectors.
-Identified key trends and patterns relevant to the New Zealand business landscape.
-
-
