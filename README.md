@@ -67,5 +67,6 @@ This project aims to gather, analyze, and provide meaningful insights into the l
 ---
 
 ## 📁 Repository Structure
-
+Company.csv
+Scraping.ipynb
 
